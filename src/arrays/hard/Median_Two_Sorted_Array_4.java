@@ -37,7 +37,7 @@ public class Median_Two_Sorted_Array_4 {
        return mergedArr;
     }
     public static double mid(int[] nums){
-        double median = 0;
+        double median;
         int mid = nums.length/2;
         double num = nums[mid];
 
