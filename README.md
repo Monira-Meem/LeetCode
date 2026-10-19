@@ -2,11 +2,11 @@
 
 # 🧠 LeetCode Solutions in Java
 
-**181 LeetCode problems solved, organized by data structure and algorithm pattern**
+**Java solutions to 181 LeetCode problems, organized by data structure and algorithm pattern**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
-![Solutions](https://img.shields.io/badge/solutions-181-2ea44f?style=for-the-badge)
+[![LeetCode profile](https://img.shields.io/badge/LeetCode-Monira__Meem-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Monira_Meem/)
+![Solved on LeetCode](https://img.shields.io/badge/solved_on_LeetCode-248-2ea44f?style=for-the-badge)
 ![Topics](https://img.shields.io/badge/topics-8-blue?style=for-the-badge)
 
 </div>
@@ -19,7 +19,14 @@ This repository is my personal problem-solving log: solutions I wrote while lear
 algorithms in Java. Problems are grouped by **topic** and **difficulty** so it is easy to see which patterns
 I have practiced and to revisit them before interviews.
 
-## 📊 At a glance
+## 🏆 My LeetCode profile
+
+<a href="https://leetcode.com/u/Monira_Meem/"><img src="https://leetcard.jacoblin.cool/Monira_Meem?theme=light&font=Fira%20Code&ext=heatmap" alt="LeetCode stats for Monira_Meem"/></a>
+
+**248 problems solved** on [LeetCode](https://leetcode.com/u/Monira_Meem/) — 199 Easy · 45 Medium · 4 Hard. This repository holds the Java code for
+181 of them, organized so each pattern is easy to review.
+
+## 📊 At a glance (this repository)
 
 | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |:-:|:-:|:-:|
